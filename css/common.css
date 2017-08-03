@@ -1,0 +1,358 @@
+.header {
+    width: 100%;
+    height: 33px;
+    border-bottom: 1px solid #e4e4e4;
+    background: linear-gradient(#fff, #f4f4f4);
+}
+
+.header1 {
+    line-height: 33px;
+}
+
+.header1 a {
+    margin: 0px 5px;
+}
+
+.nav {
+    height: 354px;
+    margin-bottom: 15px;
+}
+
+.nav img {
+    margin: 0px auto;
+}
+
+.nav ul li {
+    float: left;
+    font-size: 22px;
+    height: 52px;
+    line-height: 52px;
+    /* border-right: 2px solid #fff; */
+}
+
+.nav ul li:hover {
+    background: linear-gradient(to bottom, #ffa800, #ff6a01);
+}
+
+.nav ul li a {
+    color: #fff;
+    display: block;
+    margin: 0px 40.3px;
+    float: left;
+}
+
+.nav ul {
+    border-bottom: 4px solid #ff6c01;
+    width: 1000px;
+    margin: 0px auto;
+    height: 52px;
+    background: -webkit-linear-gradient(left, #386c05, #92d21c) 382px 15px/2px 28px no-repeat, -webkit-linear-gradient(left, #386c05, #92d21c) 594px 15px/2px 28px no-repeat, -webkit-linear-gradient(left, #386c05, #92d21c) 784px 15px/2px 28px no-repeat, -webkit-linear-gradient(#94d41e, #57980e);
+    background: -o-linear-gradient(left, #386c05, #92d21c) 38px 15px/2px 28px no-repeat, -o-linear-gradient(left, #386c05, #92d21c) 593px 15px/2px 28px no-repeat, -o-linear-gradient(left, #386c05, #92d21c) 783px 15px/2px 28px no-repeat, -o-linear-gradient(#94d41e, #57980e);
+    background: linear-gradient(to right, #386c05, #92d21c) 382px 15px/2px 28px no-repeat, linear-gradient(to right, #386c05, #92d21c) 595px 15px/2px 28px no-repeat, linear-gradient(to right, #386c05, #92d21c) 786px 15px/2px 28px no-repeat, linear-gradient(#94d41e, #57980e);
+}
+
+.main {
+    /*border: 1px solid #aaa;height: 1000px;*/
+}
+
+.main-title {
+    width: 690px;
+    height: 35px;
+    border-bottom: 1px solid #e4e4e4;
+    line-height: 35px;
+    color: #000;
+    padding-left: 15px;
+}
+
+.main-l1 {
+    text-align: center;
+}
+
+.main-l1 img {
+    margin-bottom: 35px;
+}
+
+.main-l2 {
+    margin-left: 30px;
+}
+
+.main-l2 li {
+    list-style: inside square;
+    line-height: 32px;
+    font-size: 14px;
+}
+
+.main-l2 ul li a {
+    margin-right: 5px;
+}
+
+.main-l2 ul li {
+    /*float: left;*/
+    color: #979797
+}
+
+.main-l3 {
+    margin-left: 25px;
+    width: 210px;
+    height: 100px
+}
+
+.main-l3 p {
+    color: #444444;
+    font-size: 14px;
+    line-height: 24px;
+}
+
+.main-l4 {
+    height: 130px;
+    background: #f7f7f7;
+    padding-top: 12px;
+}
+
+.main-l4 a {
+    color: #9a9a9a
+}
+
+.wb {
+    width: 528px;
+    margin: 0px auto;
+}
+
+.wb img {
+    margin-top: 25px;
+}
+
+.main-l5-title {
+    line-height: 33px;
+    font-size: 14px;
+    height: 33px;
+    padding-left: 20px;
+    background: #fafafa;
+    margin-left: -30px;
+    width: 685px;
+    border-bottom: 1px solid #e7e7e7;
+    border-top: 1px solid #e7e7e7
+}
+
+.main-l5-title p {
+    float: left;
+    margin-right: 5px;
+}
+
+.main-l5 li {
+    width: 132px;
+    height: 180px;
+    text-align: center;
+    float: left;
+    margin-right: 30px;
+    margin-top: 20px;
+}
+
+.main-l6 {
+    width: 200px;
+    height: 730px;
+    background: #f8f8f6;
+    float: left;
+}
+
+.main-l6 li {
+    height: 156px;
+    width: 131px;
+    text-align: center;
+    margin: 0px auto;
+    margin-top: 20px;
+}
+
+.main-l7 ul {
+    width: 445px;
+    height: 85px;
+    border-bottom: 1px dotted #cacaca;
+    padding-top: 15px;
+}
+
+.main-l7 li {
+    width: 445px;
+    color: #da0000;
+    list-style: inside square;
+    font-size: 14px;
+    line-height: 24px;
+    float: left;
+}
+
+.main-l7 li a {}
+
+.main-l7 li p {
+    float: right;
+}
+
+.main-l8 {
+    height: 72px;
+    border-top: 1px solid #e4e4e4;
+}
+
+.main-l8 button {
+    background: #f2f2f2;
+    padding: 0px 8px;
+    border: 1px solid #4a9101;
+    height: 22px;
+    margin-right: 8px;
+}
+
+.main-l8 button:hover {
+    background: #5daf09
+}
+
+.main-headline {
+    width: 190px;
+    height: 40px;
+    text-align: center;
+    background: linear-gradient(#94d41e, #57980e);
+    font-size: 20px;
+    line-height: 40px;
+    color: #fff;
+}
+
+.headline-link {
+    line-height: 40px;
+}
+
+.headline-link a {
+    margin: 0px 15px;
+}
+
+
+
+.main-r1 {
+    border: 1px solid #e4e4e4;
+}
+
+.main-r1 ul li {
+    height: 47px;
+    line-height: 47px;
+    padding-left: 12px;
+    padding-right: 15px;
+}
+
+.main-r1 ul li a {
+    margin-left: 15px;
+}
+
+.main-r1 .big a {
+    margin: 0px;
+}
+
+.main-r1 .big {
+    height: 86px;
+    line-height: 18px;
+    padding-top: 10px;
+}
+
+.main-r1 .big img {
+    border: 1px solid #e4e4e4;
+    float: left;
+    margin: 0px auto;
+    margin-right: 11px;
+}
+
+.bgcol {
+    background: #f8f8f6;
+}
+
+.main-r1-title {
+    font-size: 20px;
+    color: #ff8600;
+    height: 40px;
+    line-height: 40px;
+    margin-left: 15px;
+}
+
+.sort {
+    width: 31px;
+    height: 15px;
+    background: #5daf09;
+    float: left;
+    color: #FFF;
+    text-align: center;
+    border-radius: 2px;
+    line-height: 15px;
+}
+
+.main-r2 img {
+    width: 287px;
+    margin-right: -4px;
+}
+
+.main-r3 {
+    width: 275px;
+    border: 1px solid #e4e4e4;
+}
+
+.main-r3-title {
+    height: 37px;
+    border-bottom: 1px solid #e4e4e4;
+    font-size: 20px;
+    color: #ff8600;
+    width: 265px;
+    line-height: 37px;
+    padding-left: 10px;
+}
+
+.main-r3-content li {
+    width: 250px;
+    height: 62px;
+    border-bottom: 1px dotted #e4e4e4;
+    line-height: 24px;
+    padding-top: 18px;
+    margin-right: 15px;
+}
+
+.main-r3-content li img {
+    float: left;
+    margin-right: 10px;
+    border: 1px solid #e4e4e4;
+    margin-left: 2px;
+}
+
+.main-r3-ul {
+    margin: 15px 0px;
+}
+
+.main-r3-ul li {
+    list-style: inside square;
+    border: 0px;
+    line-height: 27px;
+    height: 27px;
+    color: #da0000;
+    font-size: 14px;
+    padding: 0px;
+}
+
+.main-r4 img {
+    margin-top: 20px;
+}
+
+.footer {
+    margin-top: 30px;
+}
+
+.footer img {
+    margin-top: -10px;
+    margin-bottom: 30px;
+}
+
+.footer-l a {
+    margin: 0px 10px;
+    color: #3e3e3e;
+}
+
+.footer-r p {
+    color: #3e3e3e;
+}
+
+a {
+    color: #000;
+}
+
+li p {
+    color: #979797
+}
